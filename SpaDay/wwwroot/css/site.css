@@ -69,3 +69,36 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+
+/*bonus
+*/
+
+.box {
+    float: left;
+    height: 20px;
+    width: 20px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    clear: both;
+}
+
+.burntOrange {
+    background-color: #DD420D;
+}
+
+.deepTeal {
+    background-color: #054950;
+}
+
+.goldenYellow {
+    background-color: #D7B82B;
+}
+
+.oliveGreen {
+    background-color: #4E710D
+}
+
+.burgundyBeauty {
+    background-color: #411E4A
+}
